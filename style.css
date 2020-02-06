@@ -1,0 +1,27 @@
+body {
+    font-family: 'Montserrat';
+    background-color: aliceblue;
+    color: rgb(54, 48, 48);
+}
+
+h2, h3 {
+    padding-left: 10px;
+}
+
+.conteiner {
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center {
+    text-align: center;
+}
+
+#myphoto {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    border-radius: 50%;
+}
